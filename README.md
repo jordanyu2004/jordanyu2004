@@ -4,7 +4,7 @@
 <!-- Main Title -->
 <img src="https://ov15-engine.flamingtext.com/netfu/tmp28011/flamingtext_com-331860564.gif" alt="Hello from the 100 Acre Woods" width="500"/>
 
-<img src="https://media.giphy.com/media/EatwJZRUIv41G/giphy.gif" width="200" alt="Winnie the Pooh waving"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJhazZrN2Nna3R6aWJhdTUzY3U1c2pzdDZranF5cmlub2d6NXRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T4ryxpy4m79G8/giphy.gif" width="200" alt="Winnie the Pooh waving"/>
 
 ### 🐻 Welcome to Jordan's corner of the 100 Acre Woods! 🍯
 
