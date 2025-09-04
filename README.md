@@ -27,7 +27,7 @@
 ---
 
 <!-- Skills -->
-<img src="https://de6-engine.flamingtext.com/netfu/tmp28001/flamingtext_com-30088212510.png" alt="Skills in my backpack" width="300"/>
+<img src="https://ov20-engine.flamingtext.com/netfu/tmp28006/flamingtext_com-22464871046.png" alt="Skills in my backpack" width="300"/>
 
 🍯 **Tools from my Honey Pot** 🍯  
 > (A peek at what I’ve been tinkering with deep in the woods...)
