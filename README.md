@@ -13,7 +13,7 @@
 ---
 
 <!-- About Me -->
-<img src="YOUR_GIF_LINK_HERE" alt="About Me" width="300"/>
+<img src="https://de23-engine.flamingtext.com/netfu/tmp28002/coollogo_com-322621186.gif" alt="About Me" width="300"/>
 
 🌲 I'm **Jordan**, a curious coder wandering through the woods of development.<br>
 🛠️ I like building things that bring joy — whether it's a silly script or a full-blown app.<br>
