@@ -2,10 +2,11 @@
 <div align="center">
 
 <!-- Main Title -->
+
 <img src="https://ov15-engine.flamingtext.com/netfu/tmp28011/flamingtext_com-331860564.gif" alt="Hello from the 100 Acre Woods" width="500"/>
 
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJhazZrN2Nna3R6aWJhdTUzY3U1c2pzdDZranF5cmlub2d6NXRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T4ryxpy4m79G8/giphy.gif" width="200" alt="Winnie the Pooh waving"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJhazZrN2Nna3R6aWJhdTUzY3U1c2pzdDZranF5cmlub2d6NXRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T4ryxpy4m79G8/giphy.gif" width="300" alt="Winnie the Pooh waving"/>
 
 ### 🐻 Welcome to Jordan's corner of the 100 Acre Woods! 🍯
 
@@ -17,7 +18,7 @@
 <img src="https://de18-engine.flamingtext.com/netfu/tmp28001/coollogo_com-23830712.png" alt="About Me" width="300"/>
 
 🌲 I'm **Jordan**, a curious coder wandering through the woods of development.<br>
-🛠️ I like building things that bring joy — whether it's a silly script or a full-blown app.<br>
+🛠️ I like building things that bring joy — whether it's a silly script or an app!
 🐝 Fueled by 🍯 and imagination.<br>
 🌤️ Working on finding the perfect balance between bugs and butterflies.
 
@@ -26,20 +27,28 @@
 ---
 
 <!-- Skills -->
-<img src="YOUR_GIF_LINK_HERE" alt="Skills in my backpack" width="300"/>
+<img src="https://de6-engine.flamingtext.com/netfu/tmp28001/flamingtext_com-30088212510.png" alt="Skills in my backpack" width="300"/>
 
-🌟 Languages:  
-`JavaScript` | `Python` | `TypeScript` | `HTML/CSS`
+🍯 **Tools from my Honey Pot** 🍯  
+> (A peek at what I’ve been tinkering with deep in the woods...)
 
-🌟 Tools & Frameworks:  
-`React` | `Node.js` | `Express` | `MongoDB` | `Next.js`
+🌟 **Languages I speak (besides Hunny 🐝):**  
+🐍 `Python` • 📊 `R` • 🧱 `C#` • 🗄️ `SQL`
 
-🌟 Extras:  
-`Git` | `Figma` | `Tailwind` | `Firebase`
+🌿 **Frameworks & Tools (from Owl’s library):**  
+🧠 `PyTorch` • 🌀 `TensorFlow` • 🍃 `MongoDB` • ☁️ `Azure`
+
+🎈 **Activities I Enjoy (when not chasing Heffalumps):**  
+🏃‍♂️ `Running through the forest`  
+🌶️ `Tasting spicy things that make Piglet nervous`  
+🎯 `Playing darts with Tigger (he always bounces the board...)`  
+🏓 `Table tennis tournaments with Rabbit (very competitive!)`
+
+> “We didn’t realize we were making memories, we just thought we were having fun.” – Winnie the Pooh
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjkyZ2tnYzlnMm1oZWRva2xibHQ2ZHdqbXlhbm9ucDN1ZzZmbm50NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWl9GrmcX49by/giphy.gif" width="250"/>
 
 > "You're braver than you believe, stronger than you seem, and smarter than you think." – Christopher Robin
-
-<img src="https://media.giphy.com/media/2v170e71aanfi/giphy.gif" width="250"/>
 
 ---
 
