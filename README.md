@@ -78,6 +78,8 @@
 ---
 
 <!-- Footer -->
+<img src="https://de24-engine.flamingtext.com/netfu/tmp28009/flamingtext_com-248557175.png" width="300"/>
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJva3cyZG5pdzdqbW52dXFmcm5uOWFnZGV0eTNqdmNnbnYwYjI3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o4dXckUNSuORi/giphy.gif" alt="Thanks for Visiting!" width="300"/>
 
 > "Let’s begin by taking a smallish nap or two." – Winnie the Pooh
