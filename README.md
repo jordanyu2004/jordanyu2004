@@ -3,7 +3,7 @@
 
 <!-- Main Title -->
 
-<img src="https://ov15-engine.flamingtext.com/netfu/tmp28011/flamingtext_com-331860564.gif" alt="Hello from the 100 Acre Woods" width="500"/>
+<img src="https://de23-engine.flamingtext.com/netfu/tmp28008/coollogo_com-48422090.gif" alt="Hello from the 100 Acre Woods" width="500"/>
 
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJhazZrN2Nna3R6aWJhdTUzY3U1c2pzdDZranF5cmlub2d6NXRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T4ryxpy4m79G8/giphy.gif" width="300" alt="Winnie the Pooh waving"/>
@@ -15,7 +15,7 @@
 ---
 
 <!-- About Me -->
-<img src="https://de18-engine.flamingtext.com/netfu/tmp28001/coollogo_com-23830712.png" alt="About Me" width="300"/>
+<img src="https://de23-engine.flamingtext.com/netfu/tmp28003/coollogo_com-182481037.png" alt="About Me" width="300"/>
 
 🌲 I'm **Jordan**, a curious coder wandering through the woods of development.<br>
 🛠️ I like building things that bring joy — whether it's a silly script or an app!
