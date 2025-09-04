@@ -53,11 +53,10 @@
 <!-- Projects -->
 <img src="https://de18-engine.flamingtext.com/netfu/tmp28002/coollogo_com-2819218.png" alt="Projects from the Woods" width="300"/>
 
-🌳 Here are a few things I’ve been working on in my treehouse:
+🌳 Here are a few things I’ve been cooking in my treehouse:
 
-- 🐰 **Rabbit's Garden Planner** – A simple garden management app to track planting & harvest times  
-- 🐷 **Piglet's Panic Game** – A mini-game built with Phaser where Piglet avoids Heffalumps  
-- 🦉 **Owl’s Scheduler** – A productivity tool using Notion API + calendar integration
+- ⚡ **Lightning Talk** – Topic coming soon... stay tuned for a spark of inspiration!
+- 🎯 **Com"Pooh"ter Vision** – A computer vision project that recognizes objects in images
 
 > Explore my [repositories](https://github.com/jordanyu2004?tab=repositories) to discover more!
 
