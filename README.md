@@ -3,7 +3,7 @@
 
 <!-- Main Title -->
 
-<img src="https://de23-engine.flamingtext.com/netfu/tmp28008/coollogo_com-48422090.gif" alt="Hello from the 100 Acre Woods" width="500"/>
+<img src="https://ov19-engine.flamingtext.com/netfu/tmp28002/flamingtext_com-2052413666.gif" alt="Hello from the 100 Acre Woods" width="500"/>
 
 ## 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJhazZrN2Nna3R6aWJhdTUzY3U1c2pzdDZranF5cmlub2d6NXRxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T4ryxpy4m79G8/giphy.gif" width="200" alt="Winnie the Pooh waving"/>
@@ -39,10 +39,10 @@
 🧠 `PyTorch` • 🌀 `TensorFlow` • 🍃 `MongoDB` • ☁️ `Azure`
 
 🎈 **Activities I Enjoy (when not chasing Heffalumps):**  
-🏃‍♂️ `Running through the forest`  
-🌶️ `Tasting spicy things that make Piglet nervous`  
+🏃‍♂️ `Running`  
+🌶️ `Tasting spicy things`  
 🎯 `Playing darts with Tigger (he always bounces the board...)`  
-🏓 `Table tennis tournaments with Rabbit (very competitive!)`
+🏓 `Table tennis!`
 
 > “We didn’t realize we were making memories, we just thought we were having fun.” – Winnie the Pooh
 
