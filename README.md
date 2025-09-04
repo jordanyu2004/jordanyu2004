@@ -14,14 +14,14 @@
 ---
 
 <!-- About Me -->
-<img src="https://de18-engine.flamingtext.com/netfu/tmp28006/coollogo_com-12132701.png" alt="About Me" width="300"/>
+<img src="https://de18-engine.flamingtext.com/netfu/tmp28001/coollogo_com-23830712.png" alt="About Me" width="300"/>
 
 🌲 I'm **Jordan**, a curious coder wandering through the woods of development.<br>
 🛠️ I like building things that bring joy — whether it's a silly script or a full-blown app.<br>
 🐝 Fueled by 🍯 and imagination.<br>
 🌤️ Working on finding the perfect balance between bugs and butterflies.
 
-<img src="https://media.giphy.com/media/26gYGM8fCwJ0kPL5e/giphy.gif" width="300"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJ5Y2M1aHgwMGNtYW11MzVmZzRlZWMzdGFwbWZudWdscmhuMjRvaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/777Aby0ZetYE8/giphy.gif" width="300"/>
 
 ---
 
