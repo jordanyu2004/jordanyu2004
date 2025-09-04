@@ -48,12 +48,10 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjkyZ2tnYzlnMm1oZWRva2xibHQ2ZHdqbXlhbm9ucDN1ZzZmbm50NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWl9GrmcX49by/giphy.gif" width="250"/>
 
-> "You're braver than you believe, stronger than you seem, and smarter than you think." – Christopher Robin
-
 ---
 
 <!-- Projects -->
-<img src="YOUR_GIF_LINK_HERE" alt="Projects from the Woods" width="300"/>
+<img src="https://de18-engine.flamingtext.com/netfu/tmp28002/coollogo_com-2819218.png" alt="Projects from the Woods" width="300"/>
 
 🌳 Here are a few things I’ve been working on in my treehouse:
 
@@ -61,27 +59,26 @@
 - 🐷 **Piglet's Panic Game** – A mini-game built with Phaser where Piglet avoids Heffalumps  
 - 🦉 **Owl’s Scheduler** – A productivity tool using Notion API + calendar integration
 
-> Explore my [repositories](https://github.com/YOUR_USERNAME?tab=repositories) to discover more!
+> Explore my [repositories](https://github.com/jordanyu2004?tab=repositories) to discover more!
 
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="250"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNyNWxvMGwwOWs3MXlhN2U5cWthbzI4MHd5aDJ2N2ltdDBkOWNyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9Y6n9TR7U07ew/giphy.gif" width="250"/>
 
 ---
 
 <!-- Let's Connect -->
-<img src="YOUR_GIF_LINK_HERE" alt="Let's Connect" width="300"/>
+<img src="https://de8-engine.flamingtext.com/netfu/tmp28001/flamingtext_com-30852572759.png" alt="Let's Connect" width="300"/>
 
 🍯 Feel free to drop by and say hello — don't let Eeyore's mood fool you, everyone's welcome in the woods!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-forestgreen?style=for-the-badge&logo=tree&logoColor=white)](https://YOURPORTFOLIOURL.com)
-[![Email](https://img.shields.io/badge/Email-poohbear?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordanyuds/)
+[![Email](https://img.shields.io/badge/Email-poohbear?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordanyu2004@gmail.com)
 
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="300"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhua3luams3NmY2YmYxMzhoODRuMGFoZ3hwZnRkaDJrNG14MjFvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llmZp6fCVb4ju/giphy.gif" width="300"/>
 
 ---
 
 <!-- Footer -->
-<img src="YOUR_GIF_LINK_HERE" alt="Thanks for Visiting!" width="300"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJva3cyZG5pdzdqbW52dXFmcm5uOWFnZGV0eTNqdmNnbnYwYjI3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o4dXckUNSuORi/giphy.gif" alt="Thanks for Visiting!" width="300"/>
 
 > "Let’s begin by taking a smallish nap or two." – Winnie the Pooh
 
